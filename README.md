@@ -19,3 +19,8 @@
 - STL for the left side-panel provided
   - For the right panel mirror it either in FreeCAD (Model provided) or in your slicer-program
 - Screws can be attached directly without inserts
+
+Details can be gathered from the images above.
+
+## Software
+Software for "snake" is provided. Proper documentation for the code will be added soon.
