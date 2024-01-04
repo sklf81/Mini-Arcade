@@ -1,9 +1,14 @@
 # Mini Arcade
 ## Assembly
+
 ![illuminated_view](https://github.com/sklf81/Mini-Arcade/blob/master/images/png/final_view.png)
+
 ![open_illuminated_view](https://github.com/sklf81/Mini-Arcade/blob/master/images/png/illuminated_view.png)
+
 ![battery_view](https://github.com/sklf81/Mini-Arcade/blob/master/images/png/battery_view.png)
+
 ![open_side_view](https://github.com/sklf81/Mini-Arcade/blob/master/images/png/open_side.png)
+
 ### Notes
 - The Mount for the OLED-Display is pretty tight
   - Caution when mounting
