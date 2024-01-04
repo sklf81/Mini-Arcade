@@ -10,8 +10,8 @@ SSD1306AsciiAvrI2c oled;
 
 #define REFRESH_DELAY 200
 
-#define XIN_PORT A1 //Orientation changed; originally A0
-#define YIN_PORT A0 //Orientation changed; originally A1
+#define XIN_PORT A1 //Orientation changed; originally (in schematics) A0
+#define YIN_PORT A0 //Orientation changed; originally (in schematics) A1
 #define JOYSTICK_SW 5
 
 #define LEFT_THRESHOLD (1024/4)
